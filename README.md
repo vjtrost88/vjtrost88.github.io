@@ -4,3 +4,9 @@ This repository will be for all my HTML files I make using R Markdown. Active li
 
 BicycleSharing.html:
 https://vjtrost88.github.io/BicycleSharing.html
+
+STAT 184 HW #10:
+https://vjtrost88.github.io/HW_10.html
+
+DS 220 Craigslist/Mongo Project
+https://vjtrost88.github.io/MongoProject.html

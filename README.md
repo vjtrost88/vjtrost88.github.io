@@ -1,4 +1,3 @@
 # vjtrost88.github.io
-<<<<<<< Updated upstream
-GitHub Pages Portfolio
-=======
+
+GitHub Pages Portfolio: https://vjtrost88.github.io

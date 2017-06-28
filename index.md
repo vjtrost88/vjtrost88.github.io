@@ -23,6 +23,10 @@ I did this project for a class Ii had in the Fall of 2016 called DS 220- Data Ma
 
 This EDA was done as a homework assignment for a class I had called STAT 380- Data Science and Computational Reasoning in R. Truthfully, this was the best assignment before the professor dialed it back in terms of difficulty (due to popular complaint). I enjoy these types of projects because you get to be creative on not only the questions you ask of the data, but how you answer them too. I got to test out some different but effective visualization techniques in `ggplot`, and I was pretty happy with how the assignment came out.
 
+### [](#header-3) [Spotting Trends in State College Temperature Data](https://vjtrost88.github.io/hw06.html)
+
+I did this as the last two assignments in STAT 380. They built on each other, so make sure to check [this](https://vjtrost88.github.io/HW07.html) one as well. We did an exploratory data analysis on temperature data from the State College and Ann Arbor areas. It was interesting to visualize different patterns amongst the areas, and see the variability amongst the months. Along with that, we did some basic language processing that was intended to be built upon to create our own Naive Bayes spam email classifier, but being the first time the class was offered, it unfortunately didn't get there. Maybe I'll have to finish it sometime...
+
 ### [](#header-3) [Exploring Baby Names Data](https://vjtrost88.github.io/HW_10.html)
 
 This was one of the first assignments I did in the Fall of 2016 during STAT 184- Introduction to R. I had programmed in R before this class, but nothing significant ever came of it. I thought R was relatively hard to pick up, even though I hadn't spent much time on it. This class, though it was only one day a week, made learning it so accessible and fun to do. Huge props to Dr. Matt Beckman who taught it, and the text- Data Computing by Daniel Kaplan. The text and class took a modern approach to R, teaching newer packages like `tidyr` and `dplyr` and staying away from Base R to begin with. Having gained a familiarity with the language that way first allowed me to ease into it better I think.

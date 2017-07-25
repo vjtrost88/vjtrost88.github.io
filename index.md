@@ -17,7 +17,7 @@ This project was done in conjunction with a class I had in the Spring of 2017 at
 
 ### [](#header-3) [Scraping Craigslist with R into MongoDB](https://vjtrost88.github.io/MongoProject.html)
 
-I did this project for a class Ii had in the Fall of 2016 called DS 220- Data Management for Data Sciences. We learned about a bunch of different NoSQL databases, and our final project was to come up with an original implementation that utilized a database we worked with in class. This is similar to the [Python repo](https://github.com/vjtrost88/Craigslist-Deal-Finder/) I have for scraping Craigslist, but I decided to use R for this one. Working with `rvest` as opposed to `requests` and `beautifulsoup` was good experience to have.
+I did this project for a class I had in the Fall of 2016 called DS 220- Data Management for Data Sciences. We learned about a bunch of different NoSQL databases, and our final project was to come up with an original implementation that utilized a database we worked with in class. This is similar to the [Python repo](https://github.com/vjtrost88/Craigslist-Deal-Finder/) I have for scraping Craigslist, but I decided to use R for this one. Working with `rvest` as opposed to `requests` and `beautifulsoup` was good experience to have.
 
 ### [](#header-3) [Exploratory Data Analysis on Bike Sharing in DC](https://vjtrost88.github.io/HW02.html)
 

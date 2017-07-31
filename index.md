@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![](me.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;![](me.jpg)
 
 # [](#header-1)About Me
 

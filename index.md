@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;![](me.jpg)
+<p align="center">
+    ![](me.jpg)
+</p>
 
 # [](#header-1)About Me
 

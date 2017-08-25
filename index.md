@@ -27,7 +27,7 @@ I did this project for a class I had in the Fall of 2016 called DS 220- Data Man
 
 This EDA was done as a homework assignment for a class I had called STAT 380- Data Science and Computational Reasoning in R. Truthfully, this was the best assignment before the professor dialed it back in terms of difficulty (due to popular complaint). I enjoy these types of projects because you get to be creative on not only the questions you ask of the data, but how you answer them too. I got to test out some different but effective visualization techniques in `ggplot`, and I was pretty happy with how the assignment came out.
 
-### [](#header-3) [Spotting Trends in State College Temperature Data](https://vjtrost88.github.io/hw06.html)
+### [](#header-3) [Spotting Trends in State College Temperature Data](https://vjtrost88.github.io/hw6.html)
 
 I did this as the last two assignments in STAT 380. They built on each other, so make sure to check [this](https://vjtrost88.github.io/HW07.html) one as well. We did an exploratory data analysis on temperature data from the State College and Ann Arbor areas. It was interesting to visualize different patterns amongst the areas, and see the variability amongst the months. Along with that, we did some basic language processing that was intended to be built upon to create our own Naive Bayes spam email classifier, but being the first time the class was offered, it unfortunately didn't get there. Maybe I'll have to finish it sometime...
 

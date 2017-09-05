@@ -15,6 +15,10 @@ LinkedIn: [Vince Trost](https://linkedin.com/in/vince-trost-8a3054b6/)
 
 # [](#header-1)Portfolio
 
+### [](#header-3) [Pairs Trading Study](https://vjtrost88.github.io/Pairs_Trading.html)  
+
+This project comes from a textbook called **Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving**. I'm very interested in using machine learning and other statistical techniques to mitigate risk in investing. Working through this textbook example was great in getting my feet wet with algorithmic trading. My two internships have been at a Mutual Fund company and a Financial Technology firm respectively, and the idea of using solid statistical methods to make unbiased decisions that create profit in an automated fashion is something I'm very interested in learning more about.
+
 ### [](#header-3) [Clustering Uber Pickups using Spark](https://vjtrost88.github.io/clusteringUberDS410.pdf)
 
 This project was done in conjunction with a class I had in the Spring of 2017 at PSU called DS 410- Programming Models for Data Analytics at Scale. We utilized the school's Hadoop cluster to run Spark programs. My partner, Kevin Baik and I, decided to cluster Uber pickups from the greater NYC area to see if we could identify popular pickup areas. Be sure to check out the [interactive visualization](https://vjtrost88.github.io/uberViz.html) and the [repo](https://github.com/Konnoke/DS410) for the project.

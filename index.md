@@ -15,7 +15,7 @@ LinkedIn: [Vince Trost](https://linkedin.com/in/vince-trost-8a3054b6/)
 
 # [](#header-1)Portfolio
 
-### [](#header-3) [Pairs Trading Study](https://vjtrost88.github.io/Pairs_Trading.html)  
+### [](#header-3) [Pairs Trading Case Study](https://vjtrost88.github.io/Pairs_Trading.html)  
 
 This project comes from a textbook called **Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving**. I'm very interested in using machine learning and other statistical techniques to mitigate risk in investing. Working through this textbook example was great in getting my feet wet with algorithmic trading. My two internships have been at a Mutual Fund company and a Financial Technology firm respectively, so I've been around Finance for a little bit. The idea of using solid statistical methods to make unbiased decisions that create profit in an automated fashion is something I'm very interested in learning more about.
 

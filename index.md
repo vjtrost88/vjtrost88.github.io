@@ -15,6 +15,10 @@ LinkedIn: [Vince Trost](https://linkedin.com/in/vince-trost-8a3054b6/)
 
 # [](#header-1)Portfolio
 
+### [](#header-3) [Clickbait Detection](https://vjtrost88.github.io/clickbait.nb.html)
+
+We were given a dataset of clickbait articles for our first project in DS 310. Our professor, Dongwon Lee, obtained a research grant from the NSF to research Fake News, and this clickbait dataset was a smaller problem he gave us as a class to tackle. Tackling this NLP problem was valuable experience in getting my feet wet with different types of NLP techniques. The project only lasted 3 weeks, so my learning time was limited, but I came to get a basic understanding of how information is derived from text. The notebook I made is linked above.
+
 ### [](#header-3) [Pairs Trading Case Study](https://vjtrost88.github.io/Pairs_Trading.html)  
 
 This project comes from a textbook called **Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving**. I'm very interested in using machine learning and other statistical techniques to mitigate risk in investing. Working through this textbook example was great in getting my feet wet with algorithmic trading. My two internships have been at a Mutual Fund company and a Financial Technology firm respectively, so I've been around Finance for a little bit. The idea of using solid statistical methods to make unbiased decisions that create profit in an automated fashion is something I'm very interested in learning more about.
@@ -34,10 +38,6 @@ This EDA was done as a homework assignment for a class I had called STAT 380- Da
 ### [](#header-3) [Spotting Trends in State College Temperature Data](https://vjtrost88.github.io/hw6.html)
 
 I did this as the last two assignments in STAT 380. They built on each other, so make sure to check [this](https://vjtrost88.github.io/HW07.html) one as well. We did an exploratory data analysis on temperature data from the State College and Ann Arbor areas. It was interesting to visualize different patterns amongst the areas, and see the variability amongst the months. Along with that, we did some basic language processing that was intended to be built upon to create our own Naive Bayes spam email classifier, but being the first time the class was offered, it unfortunately didn't get there. Maybe I'll have to finish it sometime...
-
-### [](#header-3) [Exploring Baby Names Data](https://vjtrost88.github.io/HW_10.html)
-
-This was one of the first assignments I did in the Fall of 2016 during STAT 184- Introduction to R. I had programmed in R before this class, but nothing significant ever came of it. I thought R was relatively hard to pick up, even though I hadn't spent much time on it. This class, though it was only one day a week, made learning it so accessible and fun to do. Huge props to Dr. Matt Beckman who taught it, and the text- Data Computing by Daniel Kaplan. The text and class took a modern approach to R, teaching newer packages like `tidyr` and `dplyr` and staying away from Base R to begin with. Having gained a familiarity with the language that way first allowed me to ease into it better I think.
 
 ### [](header-3) [Exploring NHL Hockey Data](https://vjtrost88.github.io/Hockey.html)
 

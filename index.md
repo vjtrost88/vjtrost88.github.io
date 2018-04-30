@@ -15,6 +15,11 @@ LinkedIn: [Vince Trost](https://linkedin.com/in/vince-trost-8a3054b6/)
 
 # [](#header-1)Portfolio
 
+### [](#header-3) [Course2Vec: Course Embeddings are Incredibly Useful](https://vjtrost88.github.io/trost-Course2Vec Course Embeddings are Incredibly Useful-Poster.pdf)  
+
+I worked with my boss Drew Wham's course embeddings in NLTK to run interesting machine learning tasks on the learned embeddings. Being at PSU in the Teaching and Learning with Technology Department, we have access to a plethora of student data, and one of those datasets is a complete record of the sequence of courses every student has taken at Penn State. We can embed these courses using the context around the order in which students take them. Think of the courses as words, the sequences per semester as sentences, and the overall sequence for a student as a document. Given hundreds of thousands of these overall sequences, we can come up with numeric representations of courses that allow us to capture very subtle relationships between them. With this capability, we can come up with a recommendation system for students to take courses when scheduling their next semester.  
+
+
 ### [](#header-3) [Clickbait Detection](https://vjtrost88.github.io/clickbait.nb.html)
 
 We were given a dataset of clickbait articles for our first project in DS 310. Our professor, Dongwon Lee, obtained a research grant from the NSF to research Fake News, and this clickbait dataset was a smaller problem he gave us as a class to tackle. Tackling this NLP problem was valuable experience in getting my feet wet with different types of NLP techniques. The project only lasted 3 weeks, so my learning time was limited, but I came to get a basic understanding of how information is derived from text. The notebook I made is linked above.

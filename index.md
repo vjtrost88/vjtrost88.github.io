@@ -1,32 +1,30 @@
 ---
 layout: default
 ---
-<p align="center">
+<!-- <p align="center">
   <img src="me.jpg" alt>
-</p>
+</p> -->
 
 # [](#header-1)About Me
 
-I am a senior from Pittsburgh in the Applied Data Sciences major at Penn State University. I've been interested in Data Science since my freshman year of college, and did everything I could to take relevant classes before the major was created in the Fall of 2016. I transferred Penn State Campuses (from Erie to University Park) for the Data Science major and couldn't be happier. If I'm not working on Data Science related things, I'm either lifting, playing hockey or volleyball, or hanging out with friends. The Pittsburgh Penguins are back to back Stanley Cup Champions!  
+My name is Vince Trost - I'm a Research and Development Engineer on the Data Empowered Learning team in the Teaching and Learning with Technology department at Penn State University. I graduated with a B.S. in Applied Data Science in May of 2018 and after a brief stint with IBM, I returned to Penn State to work with the team I did undergraduate work with. My day to day consists of supporting the data pipelines that run for the Machine Learning Applications we have here at TLT. If I'm not at work, I'm either advising the student-run data science club on campus called [Nittany Data Labs](http://www.nittanydatalabs.org/) (NDL), lifting weights, or working on whatever random side project interests me at the moment. If you'd like to know more about what we do here at TLT or what NDL does, please reach me at **vince@psu.edu**. Otherwise, you can reach me at **vincentjosephtrost@gmail.com**.
 
-This will be a place where I will post all relevant coursework and projects. Please feel free to reach me at [vincentjosephtrost@gmail.com](vincentjosephtrost@gmail.com).
-
-LinkedIn: [Vince Trost](https://linkedin.com/in/vince-trost-8a3054b6/)  
+LinkedIn: [Vince Trost](https://linkedin.com/in/vince-trost-8a3054b6/)
 
 # [](#header-1)Portfolio
 
-### [](#header-3) [Course2Vec: Course Embeddings are Incredibly Useful](https://vjtrost88.github.io/trost-Course2Vec Course Embeddings are Incredibly Useful-Poster.pdf)  
+### [](#header-3) [Course2Vec: Course Embeddings are Incredibly Useful](https://vjtrost88.github.io/trost-Course2Vec Course Embeddings are Incredibly Useful-Poster.pdf)
 
-I worked with my boss Drew Wham's course embeddings in Gensim to run interesting machine learning tasks on the learned embeddings. Being at PSU in the Teaching and Learning with Technology Department, we have access to a plethora of student data, and one of those datasets is a complete record of the sequence of courses every student has taken at Penn State. We can embed these courses using the context around the order in which students take them. Think of the courses as words, the sequences per semester as sentences, and the overall sequence for a student as a document. Given hundreds of thousands of these overall sequences, we can come up with numeric representations of courses that allow us to capture very subtle relationships between them. With this capability, we can come up with a recommendation system for students to take courses when scheduling their next semester.  
+I worked with my boss (at the time) Drew Wham's course embeddings in Gensim to run interesting machine learning tasks on the learned embeddings. Being at PSU in the Teaching and Learning with Technology Department, we have access to a plethora of student data, and one of those datasets is a complete record of the sequence of courses every student has taken at Penn State. We can embed these courses using the context around the order in which students take them. Think of the courses as words, the sequences per semester as sentences, and the overall sequence for a student as a document. Given hundreds of thousands of these overall sequences, we can come up with numeric representations of courses that allow us to capture very subtle relationships between them. With this capability, we can come up with a recommendation system for students to take courses when scheduling their next semester.
 
 
 ### [](#header-3) [Clickbait Detection](https://vjtrost88.github.io/clickbait.nb.html)
 
-We were given a dataset of clickbait articles for our first project in DS 310. Our professor, Dongwon Lee, obtained a research grant from the NSF to research Fake News, and this clickbait dataset was a smaller problem he gave us as a class to tackle. Tackling this NLP problem was valuable experience in getting my feet wet with different types of NLP techniques. The project only lasted 3 weeks, so my learning time was limited, but I came to get a basic understanding of how information is derived from text. The notebook I made is linked above.
+We were given a dataset of clickbait articles for our first project in DS 310. Our professor, Dongwon Lee, obtained a research grant from the NSF to research Fake News, and this clickbait dataset was a smaller problem he gave us as a class to tackle. Tackling this NLP problem was valuable experience in getting my feet wet with different types of NLP techniques. The project only lasted 3 weeks, so my learning time was limited, but I came to get a basic understanding of how features are derived from text. The notebook I made is linked above.
 
-### [](#header-3) [Pairs Trading Case Study](https://vjtrost88.github.io/Pairs_Trading.html)  
+### [](#header-3) [Pairs Trading Case Study](https://vjtrost88.github.io/Pairs_Trading.html)
 
-This project comes from a textbook called **Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving**. I'm very interested in using machine learning and other statistical techniques to mitigate risk in investing. Working through this textbook example was great in getting my feet wet with algorithmic trading. My two internships have been at a Mutual Fund company and a Financial Technology firm respectively, so I've been around Finance for a little bit. The idea of using solid statistical methods to make unbiased decisions that create profit in an automated fashion is something I'm very interested in learning more about.
+This project comes from a textbook called **Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving**. I'm very interested in using machine learning and other statistical techniques to mitigate risk in investing. Working through this textbook example was great in getting my feet wet with algorithmic trading. My two internships were at a Mutual Fund company and a Financial Technology firm respectively, so I've been around Finance for a little bit. The idea of using solid statistical methods to make unbiased decisions that create profit in an automated fashion is something I'm very interested in learning more about.
 
 ### [](#header-3) [Clustering Uber Pickups using Spark](https://vjtrost88.github.io/clusteringUberDS410.pdf)
 
@@ -46,4 +44,4 @@ I did this as the last two assignments in STAT 380. They built on each other, so
 
 ### [](header-3) [Exploring NHL Hockey Data](https://vjtrost88.github.io/Hockey.html)
 
-As professed earlier, I'm a huge hockey guy - been around the game my whole life. So as you could imagine, as I was starting out I was dying to get my hands on some hockey data. I found some and played with it for my final project in STAT 184. It's a pretty elementary exploration, with an inexperienced attempt at creating a decision tree at the end, but nonetheless it was fun, and Dr. Beckman actually used it at a Statistical Teaching conference to demonstrate what people can do with an introductory class in R.
+I'm a huge hockey guy. I've been around the game my whole life. As you could imagine, as I was starting out I was dying to get my hands on some hockey data. I found some and played with it for my final project in STAT 184. It's a pretty elementary exploration, with an inexperienced attempt at creating a decision tree at the end, but nonetheless it was fun, and my professor Dr. Beckman actually used it at a Statistical Teaching conference to demonstrate what people can do with an introductory class in R.

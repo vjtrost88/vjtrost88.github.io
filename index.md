@@ -5,9 +5,10 @@ layout: default
 
 # [](#header-1)About Me
 
-My name is Vince Trost - I'm a Research and Development Engineer on the Data Empowered Learning team in the Teaching and Learning with Technology department at Penn State University. I graduated with a B.S. in Applied Data Science in May of 2018 and after a brief stint with IBM, I returned to Penn State to work with the team I did undergraduate work with. My day to day consists of supporting the data pipelines that run for the Machine Learning Applications we have here at TLT. If I'm not at work, I'm either advising the student-run data science club on campus called [Nittany Data Labs](http://www.nittanydatalabs.org/) (NDL), lifting weights, or working on whatever random side project interests me at the moment. If you'd like to know more about what we do here at TLT or what NDL does, please reach me at **vince@psu.edu**. Otherwise, you can reach me at **vincentjosephtrost@gmail.com**.
+My name is Vince Trost - I'm a Research and Development Engineer on the Data Empowered Learning team in the Teaching and Learning with Technology department at Penn State University. I graduated with a B.S. in Applied Data Science in May of 2018 and after a brief stint with IBM, I returned to Penn State to work with the team I did undergraduate work with. My day to day consists of supporting the data pipelines that run for the Machine Learning Applications we have here at TLT. If I'm not at work, I'm either advising the student-run data science club on campus called [Nittany Data Labs](http://www.ndl.psu.edu/) (NDL), or working on whatever random side project interests me at the moment. If you'd like to know more about what we do here at TLT or what NDL does, please reach me at **vince@psu.edu**. Otherwise, you can reach me at **vincentjosephtrost@gmail.com**.
 
-LinkedIn: [Vince Trost](https://linkedin.com/in/vince-trost-8a3054b6/)
+LinkedIn: [Vince Trost](https://linkedin.com/in/vince-trost-8a3054b6/)  
+Twitter: [Vince Trost](https://twitter.com/vince_trost)
 
 # [](#header-1)Portfolio
 
